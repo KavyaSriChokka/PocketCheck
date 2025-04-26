@@ -21,16 +21,4 @@ It helps you track your income and expenses easily, and gives you a clear overvi
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
-
-## 🤝 Contributing
-
-Feel free to fork this project, make improvements, and submit a pull request.  
-Any contributions are welcome!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
+- JavaScript
